@@ -1,0 +1,22 @@
+﻿Analyzing data_naija...                                         
+
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre. Try replacing the use of the deprecated member with the replacement - lib\screens\auto_buy\auto_buy_setup_screen.dart:402:13 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre. Try replacing the use of the deprecated member with the replacement - lib\screens\auto_buy\auto_buy_setup_screen.dart:403:13 - deprecated_member_use
+   info - The local variable '_goToOnboarding' starts with an underscore. Try renaming the variable to not start with an underscore - test\widget_screens_test.dart:291:18 - no_leading_underscores_for_local_identifiers
+   info - The local variable '_goToSignIn' starts with an underscore. Try renaming the variable to not start with an underscore - test\widget_screens_test.dart:339:18 - no_leading_underscores_for_local_identifiers
+   info - The local variable '_goToHome' starts with an underscore. Try renaming the variable to not start with an underscore - test\widget_screens_test.dart:406:18 - no_leading_underscores_for_local_identifiers
+   info - The local variable '_goToKyc' starts with an underscore. Try renaming the variable to not start with an underscore - test\widget_screens_test.dart:484:18 - no_leading_underscores_for_local_identifiers
+   info - The local variable '_goToTx' starts with an underscore. Try renaming the variable to not start with an underscore - test\widget_screens_test.dart:531:18 - no_leading_underscores_for_local_identifiers
+   info - The local variable '_goToHelp' starts with an underscore. Try renaming the variable to not start with an underscore - test\widget_screens_test.dart:569:18 - no_leading_underscores_for_local_identifiers
+
+flutter : 8 issues found. (ran in 12.9s)
+At line:1 char:1
++ flutter analyze 2>&1 | Out-File 
+-FilePath analyze_out.txt -Encoding u ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecifi 
+   ed: (8 issues found. (ran in 12.9s):  
+  String) [], RemoteException
+    + FullyQualifiedErrorId : NativeComm 
+   andError
+ 

@@ -1,0 +1,547 @@
+﻿
+00:00 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart                                                                                                                        
+00:01 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart                                                                                                                        
+00:02 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart                                                                                                                        
+00:03 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart                                                                                                                        
+00:04 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart                                                                                                                        
+00:05 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart                                                                                                                        
+00:06 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart                                                                                                                        
+00:06 +0: loading C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart                                                                                                                         
+00:06 +0: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö daily next run is today if start time is still in the future                                                
+00:06 +1: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +2: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +3: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +4: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +5: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +6: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +7: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +8: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with correct seed balance                                                                  
+00:06 +9: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö every N days every 3 days = daily + 2 days                                                                  
+00:06 +10: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts unverified                                                                                
+00:06 +11: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly weekly Mon: next run is today (Mon) if start time is in the future                                  
+00:06 +12: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly weekly Mon: next run is today (Mon) if start time is in the future                                  
+00:06 +13: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly weekly Mon: next run is today (Mon) if start time is in the future                                  
+00:06 +13: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with balance visible                                                                      
+00:06 +14: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly weekly Mon: next run is next week Mon if today Mon has passed                                       
+00:06 +15: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults starts with biometric disabled                                                                   
+00:06 +16: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly weekly Wed+Fri: next run is Wed when now is Mon                                                     
+00:06 +17: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults default selected network is MTN                                                                  
+00:06 +18: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults default selected network is MTN                                                                  
+00:06 +18: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö initial defaults default selected phone is empty                                                                  
+00:06 +19: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +20: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +21: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +22: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +23: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +24: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +25: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +26: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +27: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +28: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +29: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +30: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +31: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö weekly every 2 weeks = weekly + 7 more days                                                                
+00:06 +32: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö fundWallet adds transaction to the front of the list                                                              
+00:06 +33: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö monthly next run is today if start time in the future                                                      
+00:06 +34: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö fundWallet records correct method in sub field                                                                    
+00:06 +35: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö monthly next run is next month same day if today start time has passed                                     
+00:06 +36: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö fundWallet records correct title                                                                                  
+00:06 +37: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö monthly December rolls to January of next year                                                             
+00:06 +38: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö fundWallet records positive amount                                                                                
+00:06 +39: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö custom interval custom 48h adds 48 hours when start time has passed                                        
+00:06 +40: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö fundWallet records phone as hyphen                                                                                
+00:06 +41: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö custom interval custom 1h adds 1 hour                                                                      
+00:06 +42: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö fundWallet simulateBankTransfer credits exactly 2000                                                              
+00:06 +43: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö isDue returns false when status is paused                                                                  
+00:06 +44: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö fundWallet ref starts with DN                                                                                     
+00:06 +45: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö isDue returns false when nextRunAt is null                                                                 
+00:06 +46: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö buy-data selection setNetwork updates selectedNetwork                                                             
+00:06 +47: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö isDue returns false when nextRunAt is in the future                                                        
+00:06 +48: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö buy-data selection setNetwork notifies listeners                                                                  
+00:06 +49: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö isDue returns true when now is exactly at nextRunAt                                                        
+00:06 +50: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö buy-data selection setPhone updates selectedPhone                                                                 
+00:06 +51: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö isDue returns true when now is 90 seconds after nextRunAt                                                  
+00:06 +52: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö buy-data selection setPlan updates selectedPlan                                                                   
+00:06 +53: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyScheduler ΓÇö isDue returns false when now is 3 minutes after nextRunAt (window expired)                                 
+00:06 +54: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö buy-data selection setBundleType updates type and resets plan to first                                            
+00:06 +55: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties bundleSummary is correct                                                                       
+00:06 +56: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö buy-data selection setBundleType for unknown type defaults to empty plan list gracefully                          
+00:06 +57: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties priceFormatted includes naira sign                                                             
+00:06 +58: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö buy-data selection all five bundle types can be selected without error                                            
+00:06 +59: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties statusLabel active                                                                             
+00:06 +60: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase deducts correct amount from balance                                                               
+00:06 +61: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties statusLabel paused                                                                             
+00:06 +62: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties statusLabel paused                                                                             
+00:06 +62: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties nextRunFormatted returns Not scheduled when null                                               
+00:06 +63: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties nextRunFormatted returns Not scheduled when null                                               
+00:06 +64: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties nextRunFormatted returns Not scheduled when null                                               
+00:06 +64: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase records negative amount                                                                           
+00:06 +65: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö model properties nextRunFormatted returns formatted date when set                                               
+00:06 +66: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase records correct phone                                                                             
+00:06 +67: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö serialisation toJson / fromJson round-trip preserves all fields                                                 
+00:06 +68: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö serialisation toJson / fromJson round-trip preserves all fields                                                 
+00:06 +69: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase sub includes network, bundle type, and gb                                                         
+00:06 +70: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase sub includes network, bundle type, and gb                                                         
+00:06 +70: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö serialisation fromJson handles missing optional fields gracefully                                               
+00:06 +71: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö serialisation fromJson handles missing optional fields gracefully                                               
+00:06 +72: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö serialisation fromJson handles missing optional fields gracefully                                               
+00:06 +72: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase ref starts with DN                                                                                
+00:06 +73: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö serialisation toJsonString / fromJsonString round-trip                                                          
+00:06 +74: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase multiple purchases accumulate at the front                                                        
+00:06 +75: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö copyWith copyWith preserves unchanged fields                                                                    
+00:06 +76: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö confirmPurchase balance never dips below zero in normal usage                                                     
+00:06 +77: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö copyWith copyWith can change status                                                                             
+00:06 +78: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö addTransaction new transaction is at index 0 (newest first)                                                       
+00:06 +79: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyRule ΓÇö copyWith copyWith with new executions list replaces it                                                          
+00:06 +80: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö addTransaction notifyListeners is called on addTransaction                                                        
+00:06 +81: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyExecution ΓÇö serialisation success execution round-trips                                                                
+00:06 +82: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyExecution ΓÇö serialisation success execution round-trips                                                                
+00:06 +82: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö KYC starts unverified                                                                                             
+00:06 +83: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AutoBuyExecution ΓÇö serialisation insufficient funds execution round-trips with reason                                         
+00:06 +84: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö KYC completeKyc sets verified                                                                                     
+00:06 +85: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AppState.fundAutoBuy deducts balance                                                                                          
+00:06 +86: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AppState.fundAutoBuy deducts balance                                                                                          
+00:06 +87: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AppState.fundAutoBuy deducts balance                                                                                          
+00:06 +87: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö KYC completeKyc is idempotent                                                                                     
+00:06 +88: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AppState.fundAutoBuy records transaction as Auto-Buy kind (data)                                                              
+00:06 +89: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö security settings toggleBiometric enables then disables                                                           
+00:06 +90: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AppState.fundAutoBuy sets lastPurchasedTxId                                                                                   
+00:06 +91: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö security settings toggleBiometric notifies listeners                                                              
+00:06 +92: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AppState.fundAutoBuy records correct phone                                                                                    
+00:06 +93: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö referral moveReferralBonus transfers full bonus to wallet                                                         
+00:06 +94: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: AppState.fundAutoBuy sub includes network and gb                                                                              
+00:06 +95: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö referral moved transaction has referral kind                                                                      
+00:06 +96: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: Idempotency key logic same rule + same minute produces identical idempotency key                                              
+00:06 +97: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö referral moved transaction amount equals original bonus                                                           
+00:06 +98: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: Idempotency key logic different minutes produce different keys                                                                
+00:06 +99: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö referral does nothing when bonus below minimum (50)                                                               
+00:06 +100: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: Idempotency key logic different rule IDs produce different keys for same time                                                
+00:06 +101: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö referral does nothing when bonus is exactly 0                                                                    
+00:06 +102: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: ScheduleFrequencyLabel all frequencies have non-empty labels                                                                 
+00:06 +103: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö referral works when bonus equals minimum (100)                                                                   
+00:06 +104: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: ScheduleFrequencyLabel isIntervalBased is false for weekly                                                                   
+00:06 +105: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö referral referralMinMove constant is 100                                                                         
+00:06 +106: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: ScheduleFrequencyLabel isIntervalBased is false for monthly                                                                  
+00:06 +107: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö date/time helpers transaction date string contains year                                                          
+00:07 +108: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: ScheduleFrequencyLabel isIntervalBased is false for custom                                                                   
+00:07 +109: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: ScheduleFrequencyLabel isIntervalBased is false for custom                                                                   
+00:07 +109: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö date/time helpers transaction date string contains AM or PM                                                      
+00:07 +110: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö date/time helpers transaction date string contains AM or PM                                                      
+00:07 +111: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö date/time helpers transaction date string contains AM or PM                                                      
+00:07 +111: C:/Users/pc/Desktop/DKiro/data_naija/test/auto_buy_test.dart: ScheduleFrequencyLabel isIntervalBased is true for daily                                                                     
+00:07 +112: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö date/time helpers transaction date string contains a month abbreviation                                          
+00:07 +113: C:/Users/pc/Desktop/DKiro/data_naija/test/app_state_test.dart: AppState ΓÇö date/time helpers transaction date string contains a month abbreviation                                          
+00:07 +113: loading C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart                                                                                                                
+00:08 +113: loading C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart                                                                                                                
+00:08 +113: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString zero                                                                                         
+00:08 +114: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString zero                                                                                         
+00:08 +114: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString single digit                                                                                 
+00:08 +115: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString single digit                                                                                 
+00:08 +115: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString three digits                                                                                 
+00:08 +116: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString three digits                                                                                 
+00:08 +116: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString exactly 1000                                                                                 
+00:08 +117: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString exactly 1000                                                                                 
+00:08 +117: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString ten-thousands                                                                                
+00:08 +118: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString ten-thousands                                                                                
+00:08 +118: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString hundred-thousands                                                                            
+00:08 +119: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString hundred-thousands                                                                            
+00:08 +119: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString millions                                                                                     
+00:08 +120: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString millions                                                                                     
+00:08 +120: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString negative abs (used in formattedAmount)                                                       
+00:08 +121: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString negative abs (used in formattedAmount)                                                       
+00:08 +121: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString 1999 formats correctly                                                                       
+00:08 +122: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: IntFormat.toLocaleString 1999 formats correctly                                                                       
+00:08 +122: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction debit isCredit is false                                                                                   
+00:08 +123: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction debit isCredit is false                                                                                   
+00:08 +123: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction credit isCredit is true                                                                                   
+00:08 +124: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction credit isCredit is true                                                                                   
+00:08 +124: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction debit formattedAmount has minus sign                                                                      
+00:08 +125: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction debit formattedAmount has minus sign                                                                      
+00:08 +125: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction credit formattedAmount has plus sign                                                                      
+00:08 +126: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction credit formattedAmount has plus sign                                                                      
+00:08 +126: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction large debit formats correctly                                                                             
+00:08 +127: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction large debit formats correctly                                                                             
+00:08 +127: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction successful statusLabel                                                                                    
+00:08 +128: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction successful statusLabel                                                                                    
+00:08 +128: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction pending statusLabel                                                                                       
+00:08 +129: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction pending statusLabel                                                                                       
+00:08 +129: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction failed statusLabel                                                                                        
+00:08 +130: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction failed statusLabel                                                                                        
+00:08 +130: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction data iconLetter is D                                                                                      
+00:08 +131: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction data iconLetter is D                                                                                      
+00:08 +131: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction wallet iconLetter is W                                                                                    
+00:08 +132: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers MTN 0801                                                               
+00:08 +133: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers MTN 0801                                                               
+00:08 +134: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers MTN 0801                                                               
+00:08 +135: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction airtime uses debit icon colours                                                                           
+00:08 +136: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction airtime uses debit icon colours                                                                           
+00:08 +137: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers Airtel 0701                                                            
+00:08 +138: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: Transaction data uses credit icon colours                                                                             
+00:08 +139: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers Glo 0901                                                               
+00:08 +140: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers Glo 0901                                                               
+00:08 +140: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: DataPlan priceFormatted includes naira sign                                                                           
+00:08 +141: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 9mobile 0901                                                           
+00:08 +142: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: DataPlan priceFormatted for large price                                                                               
+00:08 +143: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: DataPlan priceFormatted for large price                                                                               
+00:08 +143: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0810                                                                   
+00:08 +144: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0810                                                                   
+00:08 +145: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0810                                                                   
+00:08 +145: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: DataPlan isHot can be set to true                                                                                     
+00:08 +146: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0811                                                                   
+00:08 +147: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0811                                                                   
+00:08 +147: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend abbr is first two characters uppercased                                                                
+00:08 +148: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend abbr is first two characters uppercased                                                                
+00:08 +149: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend abbr is first two characters uppercased                                                                
+00:08 +149: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0701                                                                   
+00:08 +150: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend isActive true for Active status                                                                        
+00:08 +151: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend isActive true for Active status                                                                        
+00:08 +151: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0900                                                                   
+00:08 +152: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend isActive false for Pending status                                                                      
+00:08 +153: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex valid numbers 0901                                                                   
+00:08 +154: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend abbr works for short names                                                                             
+00:08 +155: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: ReferralFriend abbr works for short names                                                                             
+00:08 +155: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong prefix starts with 1                                                 
+00:08 +156: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö networks has exactly 4 networks                                                                          
+00:08 +157: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö networks has exactly 4 networks                                                                          
+00:08 +157: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong prefix starts with 06                                                
+00:08 +158: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö networks network names are correct                                                                       
+00:08 +159: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong prefix starts with 05                                                
+00:08 +160: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong prefix starts with 05                                                
+00:08 +160: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö networks networkByName returns correct network                                                           
+00:08 +161: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong length 10 digits                                                     
+00:08 +162: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö networks networkByName returns first network for unknown name                                            
+00:08 +163: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong length 12 digits                                                     
+00:08 +164: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö networks all networks have non-empty abbr                                                                
+00:08 +165: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö networks all networks have non-empty abbr                                                                
+00:08 +165: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong length empty string                                                  
+00:08 +166: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes has 5 bundle types                                                                           
+00:08 +167: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong length 6 digits                                                      
+00:08 +168: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes all expected types present                                                                   
+00:08 +169: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö non-digits spaces                                                          
+00:08 +170: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö non-digits spaces                                                          
+00:08 +170: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes every type has at least one plan                                                             
+00:08 +171: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö non-digits plus prefix                                                     
+00:08 +172: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö non-digits plus prefix                                                     
+00:08 +172: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes SME has 5 plans                                                                              
+00:08 +173: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes SME has 5 plans                                                                              
+00:08 +174: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes SME has 5 plans                                                                              
+00:08 +174: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö non-digits letters                                                         
+00:08 +175: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes Awoof plans are all marked isHot                                                             
+00:08 +176: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes Awoof plans are all marked isHot                                                             
+00:08 +176: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong third digit 082x not valid                                           
+00:08 +177: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong third digit 082x not valid                                           
+00:08 +178: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong third digit 082x not valid                                           
+00:08 +178: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö bundleTypes all plan gb strings are non-empty                                                            
+00:08 +179: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex invalid ΓÇö wrong third digit 083x not valid                                           
+00:08 +180: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö popularBundles has 4 popular bundles                                                                     
+00:08 +181: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex edge cases all zeros (invalid)                                                       
+00:08 +182: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö popularBundles every popular bundle network exists in networks list                                      
+00:08 +183: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex edge cases whitespace only                                                           
+00:08 +184: C:/Users/pc/Desktop/DKiro/data_naija/test/phone_validation_test.dart: Nigerian phone validation regex edge cases whitespace only                                                           
+00:08 +184: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö popularBundles all popular bundle prices are positive                                                    
+00:08 +185: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö popularBundles all popular bundle prices are positive                                                    
+00:08 +185: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions produces 5 transactions                                                                 
+00:08 +186: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions produces 5 transactions                                                                 
+00:08 +186: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions includes all three status types                                                         
+00:09 +187: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions includes all three status types                                                         
+00:09 +187: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions ids are unique                                                                          
+00:09 +188: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions ids are unique                                                                          
+00:09 +188: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions all refs start with DN                                                                  
+00:09 +189: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions all refs start with DN                                                                  
+00:09 +189: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions each call returns a fresh list                                                          
+00:09 +190: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö seedTransactions each call returns a fresh list                                                          
+00:09 +190: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö notifications has 4 notifications                                                                        
+00:09 +191: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö notifications has 4 notifications                                                                        
+00:09 +191: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö notifications includes both read and unread                                                              
+00:09 +192: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö notifications includes both read and unread                                                              
+00:09 +192: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö notifications all titles are non-empty                                                                   
+00:09 +193: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö notifications all titles are non-empty                                                                   
+00:09 +193: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö FAQs has 5 FAQs                                                                                          
+00:09 +194: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö FAQs has 5 FAQs                                                                                          
+00:09 +194: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö FAQs all questions are non-empty                                                                         
+00:09 +195: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö FAQs all questions are non-empty                                                                         
+00:09 +195: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö FAQs all answers are non-empty                                                                           
+00:09 +196: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö FAQs all answers are non-empty                                                                           
+00:09 +196: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö referralFriends has 3 referral friends                                                                   
+00:09 +197: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö referralFriends has 3 referral friends                                                                   
+00:09 +197: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö referralFriends at least one active friend                                                               
+00:09 +198: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö referralFriends at least one active friend                                                               
+00:10 +198: C:/Users/pc/Desktop/DKiro/data_naija/test/models_and_data_test.dart: SampleData ΓÇö referralFriends at least one active friend                                                               
+00:10 +198: loading C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart                                                                                                             
+00:10 +198: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "All" returns every transaction                                                   
+00:10 +199: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "All" returns every transaction                                                   
+00:10 +199: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "Successful" returns only successful transactions                                 
+00:10 +200: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "Successful" returns only successful transactions                                 
+00:10 +200: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "Pending" returns only pending transactions                                       
+00:10 +201: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "Pending" returns only pending transactions                                       
+00:10 +201: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "Failed" returns only failed transactions                                         
+00:10 +202: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip "Failed" returns only failed transactions                                         
+00:10 +202: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip non-matching filter returns empty list                                            
+00:10 +203: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö status chip non-matching filter returns empty list                                            
+00:10 +203: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query empty query returns all                                                          
+00:10 +204: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query empty query returns all                                                          
+00:10 +204: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search by title prefix (case-insensitive)                                        
+00:10 +205: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search by title prefix (case-insensitive)                                        
+00:10 +205: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search by sub string                                                             
+00:10 +206: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search by sub string                                                             
+00:10 +206: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search for non-existent term returns empty                                       
+00:10 +207: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search for non-existent term returns empty                                       
+00:10 +207: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search is case-insensitive                                                       
+00:10 +208: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query search is case-insensitive                                                       
+00:10 +208: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query whitespace-only query returns all (treated as empty)                             
+00:10 +209: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö search query whitespace-only query returns all (treated as empty)                             
+00:10 +209: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö combined filter + search Successful + "data" returns only successful data purchases           
+00:10 +210: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö combined filter + search Successful + "data" returns only successful data purchases           
+00:10 +210: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö combined filter + search Failed + "glo" returns only the one failed Glo transaction           
+00:10 +211: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö combined filter + search Failed + "glo" returns only the one failed Glo transaction           
+00:10 +211: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö combined filter + search Successful + non-matching query returns empty                        
+00:10 +212: C:/Users/pc/Desktop/DKiro/data_naija/test/transaction_filter_test.dart: Transaction filter ΓÇö combined filter + search Successful + non-matching query returns empty                        
+00:10 +212: loading C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart                                                                                                              
+00:10 +212: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness chat URI uses correct international number without plus or spaces                  
+00:10 +213: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness chat URI uses correct international number without plus or spaces                  
+00:10 +213: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness chat URI pre-fills a message                                                       
+00:10 +214: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness chat URI pre-fills a message                                                       
+00:10 +214: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:11 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:12 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:13 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:14 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:15 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:16 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:17 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:18 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:19 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/whatsapp_launcher_test.dart: WhatsAppLauncher URI correctness channel URI matches the exact supplied URL                                         
+00:19 +215: loading C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart                                                                                                                 
+00:19 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton shows label text                                                                                       
+00:20 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton shows label text                                                                                       
+00:21 +215: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton shows label text                                                                                       
+00:21 +216: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_test.dart: App launches and shows splash screen                                                                                           
+00:21 +217: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton is tappable when onPressed is provided                                                                 
+00:21 +218: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton is tappable when onPressed is provided                                                                 
+00:21 +218: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton is disabled when onPressed is null                                                                     
+00:22 +218: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton is disabled when onPressed is null                                                                     
+00:22 +219: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton is disabled when onPressed is null                                                                     
+00:22 +219: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton shows spinner when loading is true                                                                     
+00:22 +220: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton shows spinner when loading is true                                                                     
+00:22 +220: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton is disabled when loading is true                                                                       
+00:22 +221: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnPrimaryButton is disabled when loading is true                                                                       
+00:22 +221: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnChip shows label                                                                                                     
+00:22 +222: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnChip shows label                                                                                                     
+00:22 +222: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnChip calls onTap when tapped                                                                                         
+00:22 +223: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnChip calls onTap when tapped                                                                                         
+00:22 +223: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnChip selected chip has different visual state                                                                        
+00:22 +224: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnChip selected chip has different visual state                                                                        
+00:22 +224: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnStatusPill shows Successful                                                                                          
+00:22 +225: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnStatusPill shows Successful                                                                                          
+00:22 +225: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnStatusPill shows Pending                                                                                             
+00:22 +226: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnStatusPill shows Pending                                                                                             
+00:22 +226: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnStatusPill shows Failed                                                                                              
+00:22 +227: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: DnStatusPill shows Failed                                                                                              
+00:22 +227: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: StepIndicator renders three step numbers                                                                               
+00:22 +228: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: StepIndicator renders three step numbers                                                                               
+00:22 +228: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: StepIndicator renders at step 2 without error                                                                          
+00:22 +229: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: StepIndicator renders at step 2 without error                                                                          
+00:22 +229: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: StepIndicator renders at step 3 without error                                                                          
+00:22 +230: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: StepIndicator renders at step 3 without error                                                                          
+00:22 +230: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows title                                                                                                      
+00:23 +230: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows title                                                                                                      
+00:23 +231: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows title                                                                                                      
+00:23 +231: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows sub when showDate is false                                                                                 
+00:23 +232: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows sub when showDate is false                                                                                 
+00:23 +232: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows sub ├é┬╖ date when showDate is true                                                                          
+00:23 +233: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows sub ├é┬╖ date when showDate is true                                                                          
+00:23 +233: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows formatted amount                                                                                           
+00:23 +234: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows formatted amount                                                                                           
+00:23 +234: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows status pill                                                                                                
+00:23 +235: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow shows status pill                                                                                                
+00:23 +235: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow calls onTap when tapped                                                                                          
+00:23 +236: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow calls onTap when tapped                                                                                          
+00:23 +236: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow renders icon letter D for data kind                                                                              
+00:23 +237: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TxRow renders icon letter D for data kind                                                                              
+00:23 +237: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SplashScreen shows DataNaija title                                                                                     
+00:23 +238: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SplashScreen shows DataNaija title                                                                                     
+00:23 +238: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SplashScreen shows tagline                                                                                             
+00:23 +239: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SplashScreen shows tagline                                                                                             
+00:23 +239: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SplashScreen advances to onboarding after 2.2s                                                                         
+00:23 +240: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SplashScreen advances to onboarding after 2.2s                                                                         
+00:23 +240: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen shows first slide title                                                                               
+00:24 +240: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen shows first slide title                                                                               
+00:24 +241: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen shows first slide title                                                                               
+00:24 +241: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen shows Continue button                                                                                 
+00:24 +242: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen shows Continue button                                                                                 
+00:24 +242: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen shows Skip button                                                                                     
+00:24 +243: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen shows Skip button                                                                                     
+00:24 +243: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen Continue advances to slide 2                                                                          
+00:24 +244: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen Continue advances to slide 2                                                                          
+00:24 +244: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen Skip navigates to sign-in screen                                                                      
+00:25 +244: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen Skip navigates to sign-in screen                                                                      
+00:25 +245: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen Skip navigates to sign-in screen                                                                      
+00:25 +245: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen Continue on slide 2 navigates to sign-in                                                              
+00:25 +246: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: OnboardingScreen Continue on slide 2 navigates to sign-in                                                              
+00:25 +246: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen shows Welcome Back heading                                                                                
+00:26 +246: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen shows Welcome Back heading                                                                                
+00:26 +247: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen shows Welcome Back heading                                                                                
+00:26 +247: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen shows email/phone field                                                                                   
+00:26 +248: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen shows email/phone field                                                                                   
+00:26 +248: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen shows password field                                                                                      
+00:26 +249: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen shows password field                                                                                      
+00:26 +249: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen Sign In button is present                                                                                 
+00:26 +250: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen Sign In button is present                                                                                 
+00:26 +250: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen Create an Account button is present                                                                       
+00:27 +250: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen Create an Account button is present                                                                       
+00:27 +251: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen Create an Account button is present                                                                       
+00:27 +251: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen tapping Sign In navigates to home                                                                         
+00:28 +251: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen tapping Sign In navigates to home                                                                         
+00:28 +252: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen tapping Sign In navigates to home                                                                         
+00:28 +252: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen tapping Create an Account navigates to sign-up                                                            
+00:29 +252: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen tapping Create an Account navigates to sign-up                                                            
+00:29 +252: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen tapping Create an Account navigates to sign-up                                                            
+
+Warning: A call to tap() with finder "Found 1 widget with text "Create an Account": [
+  Text("Create an Account", inherit: true, family: PlusJakartaSans_700, familyFallback: [PlusJakartaSans], size: 15.0, weight: 700, dependencies: [DefaultSelectionStyle, DefaultTextStyle, MediaQuery]),
+]" derived an Offset (Offset(400.0, 640.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+Indeed, Offset(400.0, 640.0) is outside the bounds of the root of the render tree, Size(800.0, 600.0).
+The finder corresponds to this RenderBox: RenderParagraph#a8cd6 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#a43ac(_ReusableRenderView#53f61), HitTestEntry<HitTestTarget>#ad01a(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2165:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1947:12)
+#2      WidgetController.tap (package:flutter_test/src/controller.dart:1080:7)
+#3      main.<anonymous closure>.<anonymous closure> (file:///C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart:397:20)
+<asynchronous suspension>
+#4      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#5      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1953:5)
+<asynchronous suspension>
+#6      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "tap()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+ΓòÉΓòÉΓòí EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK Γò₧ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+The following TestFailure was thrown running a test:
+Expected: at least one matching candidate
+  Actual: _TextContainingWidgetFinder:<Found 0 widgets with text containing Create Account: []>
+   Which: means none were found but some were expected
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure>.<anonymous closure> (file:///C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart:400:7)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1953:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart line 400
+The test description was:
+  tapping Create an Account navigates to sign-up
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+
+00:29 +252 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: SignInScreen tapping Create an Account navigates to sign-up [E]                                                     
+  Test failed. See exception logs above.
+  The test description was: tapping Create an Account navigates to sign-up
+  
+
+To run this test again: C:\Users\pc\develop\flutter\bin\cache\dart-sdk\bin\dart.exe test C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart -p vm --plain-name "SignInScreen tapping Create an Account navigates to sign-up"
+
+00:29 +252 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows wallet balance                                                                                     
+00:30 +252 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows wallet balance                                                                                     
+00:30 +253 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows wallet balance                                                                                     
+00:30 +253 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows balance amount                                                                                     
+00:31 +253 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows balance amount                                                                                     
+00:31 +254 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows balance amount                                                                                     
+00:31 +254 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Popular Data Bundles section                                                                       
+00:32 +254 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Popular Data Bundles section                                                                       
+00:32 +255 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Popular Data Bundles section                                                                       
+00:32 +255 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Recent Transactions section                                                                        
+00:33 +255 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Recent Transactions section                                                                        
+00:34 +255 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Recent Transactions section                                                                        
+00:34 +255 -1: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Recent Transactions section                                                                        
+ΓòÉΓòÉΓòí EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK Γò₧ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+The following TestFailure was thrown running a test:
+Expected: at least one matching candidate
+  Actual: _TextContainingWidgetFinder:<Found 0 widgets with text containing Recent Transactions: []>
+   Which: means none were found but some were expected
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure>.<anonymous closure> (file:///C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart:434:7)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1953:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart line 434
+The test description was:
+  shows Recent Transactions section
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+
+00:34 +255 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Recent Transactions section [E]                                                                    
+  Test failed. See exception logs above.
+  The test description was: shows Recent Transactions section
+  
+
+To run this test again: C:\Users\pc\develop\flutter\bin\cache\dart-sdk\bin\dart.exe test C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart -p vm --plain-name "HomeScreen shows Recent Transactions section"
+
+00:34 +255 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Buy Data quick action                                                                              
+00:35 +255 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Buy Data quick action                                                                              
+00:35 +256 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows Buy Data quick action                                                                              
+00:35 +256 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows KYC banner when not verified                                                                       
+00:36 +256 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows KYC banner when not verified                                                                       
+00:36 +257 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen shows KYC banner when not verified                                                                       
+00:36 +257 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen KYC banner absent when verified                                                                          
+00:36 +258 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen KYC banner absent when verified                                                                          
+00:36 +258 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen bottom nav has 4 tabs                                                                                    
+00:37 +258 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen bottom nav has 4 tabs                                                                                    
+00:37 +259 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen bottom nav has 4 tabs                                                                                    
+00:37 +259 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen tapping Transactions tab shows transactions screen                                                       
+00:37 +260 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HomeScreen tapping Transactions tab shows transactions screen                                                       
+00:37 +260 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state Verify button disabled with empty ID                                                     
+00:38 +260 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state Verify button disabled with empty ID                                                     
+00:38 +261 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state Verify button disabled with empty ID                                                     
+00:38 +261 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows BVN type chip                                                                      
+00:39 +261 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows BVN type chip                                                                      
+00:39 +262 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows BVN type chip                                                                      
+00:39 +262 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows NIN type chip                                                                      
+00:40 +262 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows NIN type chip                                                                      
+00:40 +263 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows NIN type chip                                                                      
+00:40 +263 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows consent checkbox                                                                   
+00:41 +263 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows consent checkbox                                                                   
+00:41 +264 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: KycScreen ├óΓé¼ΓÇ¥ button state shows consent checkbox                                                                   
+00:41 +264 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows search field                                                                               
+00:41 +265 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows search field                                                                               
+00:41 +265 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows All filter chip                                                                            
+00:42 +265 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows All filter chip                                                                            
+00:42 +266 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows All filter chip                                                                            
+00:42 +266 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows filter chips for all statuses                                                              
+00:42 +267 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows filter chips for all statuses                                                              
+00:42 +267 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows seeded transactions                                                                        
+00:43 +267 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows seeded transactions                                                                        
+00:43 +268 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: TransactionsScreen shows seeded transactions                                                                        
+00:43 +268 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen shows FAQs tab by default                                                                                
+00:43 +269 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen shows FAQs tab by default                                                                                
+00:43 +269 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen shows Contact Support tab chip                                                                           
+00:43 +270 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen shows Contact Support tab chip                                                                           
+00:43 +270 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping Contact Support shows WhatsApp cards                                                             
+00:44 +270 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping Contact Support shows WhatsApp cards                                                             
+00:44 +271 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping Contact Support shows WhatsApp cards                                                             
+00:44 +271 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen WhatsApp card shows correct phone number                                                                 
+00:44 +272 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen WhatsApp card shows correct phone number                                                                 
+00:44 +272 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping FAQ expands its answer                                                                           
+00:44 +273 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping FAQ expands its answer                                                                           
+00:44 +273 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping FAQ again collapses it                                                                           
+00:45 +273 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping FAQ again collapses it                                                                           
+00:45 +274 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen tapping FAQ again collapses it                                                                           
+00:45 +274 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen shows Need more help card                                                                                
+00:45 +275 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: HelpScreen shows Need more help card                                                                                
+00:46 +275 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: Purchase flow ├óΓé¼ΓÇ¥ AppState state machine full flow changes balance, adds tx, sets lastPurchasedTxId                 
+00:46 +276 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: Purchase flow ├óΓé¼ΓÇ¥ AppState state machine full flow changes balance, adds tx, sets lastPurchasedTxId                 
+00:46 +276 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: Purchase flow ├óΓé¼ΓÇ¥ AppState state machine can find purchased tx by lastPurchasedTxId                                 
+00:46 +277 -2: C:/Users/pc/Desktop/DKiro/data_naija/test/widget_screens_test.dart: Purchase flow ├óΓé¼ΓÇ¥ AppState state machine can find purchased tx by lastPurchasedTxId                                 
+00:46 +277 -2: Some tests failed.                                                                                                                                                                      
