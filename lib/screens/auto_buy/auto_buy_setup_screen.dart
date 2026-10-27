@@ -38,6 +38,9 @@ class _AutoBuySetupScreenState extends State<AutoBuySetupScreen> {
   int _startHour = 8;
   int _startMinute = 0;
   int _customIntervalHours = 24;
+  final TextEditingController _customIntervalCtrl = TextEditingController(
+    text: '24',
+  );
 
   // ── Consent ───────────────────────────────────────────────────────────────
   bool _consent = false;
@@ -68,6 +71,7 @@ class _AutoBuySetupScreenState extends State<AutoBuySetupScreen> {
         _startHour = arg.startHour;
         _startMinute = arg.startMinute;
         _customIntervalHours = arg.customIntervalHours;
+        _customIntervalCtrl.text = arg.customIntervalHours.toString();
         _consent = arg.consentGiven;
       }
     }
@@ -76,6 +80,7 @@ class _AutoBuySetupScreenState extends State<AutoBuySetupScreen> {
   @override
   void dispose() {
     _phoneCtrl.dispose();
+    _customIntervalCtrl.dispose();
     super.dispose();
   }
 
