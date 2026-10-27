@@ -492,9 +492,7 @@ class _AutoBuySetupScreenState extends State<AutoBuySetupScreen> {
                 setState(() => _customIntervalHours = parsed);
               }
             },
-            controller: TextEditingController(
-              text: _customIntervalHours.toString(),
-            ),
+            controller: _customIntervalCtrl,
           ),
           const SizedBox(height: 4),
           Text(

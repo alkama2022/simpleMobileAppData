@@ -22,8 +22,6 @@ class _ReferralScreenState extends State<ReferralScreen> {
   String _tab = 'Campaign';
   bool _codeCopied = false;
 
-  static const int _minMove = 100;
-
   void _copyCode() {
     Clipboard.setData(const ClipboardData(text: 'CHINEDU12'));
     setState(() => _codeCopied = true);
@@ -73,7 +71,7 @@ class _ReferralScreenState extends State<ReferralScreen> {
   }
 
   List<Widget> _campaign(BuildContext context, AppState state) {
-    final canMove = state.referralBonus >= _minMove;
+    final canMove = state.referralBonus >= state.referralMinMove;
     return [
       // Bonus card
       DnCard(

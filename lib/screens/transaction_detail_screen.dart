@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import '../core/app_state.dart';
 import '../core/app_colors.dart';
 import '../core/models.dart';
 import '../widgets/dn_button.dart';
@@ -11,7 +12,8 @@ class TransactionDetailScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final tx = ModalRoute.of(context)!.settings.arguments as Transaction;
+    final args = ModalRoute.of(context)?.settings.arguments;
+    final tx = args is Transaction ? args : context.read<AppState>().transactions.first;
 
     return Scaffold(
       appBar: AppBar(
