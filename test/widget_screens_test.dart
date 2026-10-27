@@ -9,8 +9,6 @@ import 'package:data_naija/widgets/dn_chip.dart';
 import 'package:data_naija/widgets/dn_status_pill.dart';
 import 'package:data_naija/widgets/step_indicator.dart';
 import 'package:data_naija/widgets/tx_row.dart';
-import 'package:data_naija/core/auto_buy_state.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 // â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 // Test helpers
@@ -393,9 +391,12 @@ void main() {
     });
 
     testWidgets('tapping Create an Account navigates to sign-up', (tester) async {
+      // Enlarge the test surface so the auth buttons are inside the viewport.
+      await tester.binding.setSurfaceSize(const Size(800, 1800));
+      addTearDown(() => tester.binding.setSurfaceSize(null));
       await goToSignIn(tester);
       await tester.tap(find.text('Create an Account'));
-      await tester.pump(const Duration(milliseconds: 600));
+      await tester.pumpAndSettle();
       // Sign-up screen has its own unique heading
       expect(find.textContaining('Create Account'), findsWidgets);
     });
@@ -409,9 +410,9 @@ void main() {
       await _pumpAppAndDrainSplash(tester, state: state);
       await tester.pumpAndSettle();
       await tester.tap(find.text('Skip'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
       await tester.tap(find.text('Sign In'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
     }
 
     testWidgets('shows wallet balance', (tester) async {
@@ -487,9 +488,9 @@ void main() {
       await _pumpAppAndDrainSplash(tester);
       await tester.pumpAndSettle();
       await tester.tap(find.text('Skip'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
       await tester.tap(find.text('Sign In'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
       // Navigate to KYC via named route
       final NavigatorState nav = tester.state(find.byType(Navigator).first);
       nav.pushNamed('/kyc');
@@ -534,9 +535,9 @@ void main() {
       await _pumpAppAndDrainSplash(tester);
       await tester.pumpAndSettle();
       await tester.tap(find.text('Skip'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
       await tester.tap(find.text('Sign In'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
       await tester.tap(find.text('Transactions').last);
       await tester.pumpAndSettle();
     }
@@ -570,11 +571,11 @@ void main() {
   group('HelpScreen', () {
     Future<void> goToHelp(WidgetTester tester) async {
       await _pumpAppAndDrainSplash(tester);
-      await tester.pump();
+      await tester.pumpAndSettle();
       await tester.tap(find.text('Skip'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
       await tester.tap(find.text('Sign In'));
-      await tester.pump(const Duration(milliseconds: 500));
+      await tester.pumpAndSettle();
       final NavigatorState nav = tester.state(find.byType(Navigator).first);
       nav.pushNamed('/help');
       await tester.pumpAndSettle();

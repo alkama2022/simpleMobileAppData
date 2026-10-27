@@ -403,13 +403,15 @@ class _AutoBuySetupScreenState extends State<AutoBuySetupScreen> {
               padding: const EdgeInsets.symmetric(vertical: 2),
               child: Row(
                 children: [
-                  Radio<ScheduleFrequency>(
-                    value: f,
+                  RadioGroup<ScheduleFrequency>(
                     groupValue: _frequency,
                     onChanged: (v) => setState(() => _frequency = v!),
-                    activeColor: AppColors.primary,
-                    materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                    visualDensity: VisualDensity.compact,
+                    child: Radio<ScheduleFrequency>(
+                      value: f,
+                      activeColor: AppColors.primary,
+                      materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      visualDensity: VisualDensity.compact,
+                    ),
                   ),
                   Text(
                     f.label,
