@@ -52,7 +52,7 @@ class _BuyDataScreenState extends State<BuyDataScreen> {
               // Back + title
               Row(
                 children: [
-                  _BackButton(onTap: () {}), // tab — no back
+                  _BackButton(), // tab — no back expected here
                   Text(
                     'Buy Data',
                     style: GoogleFonts.plusJakartaSans(
@@ -183,8 +183,7 @@ class _BuyDataScreenState extends State<BuyDataScreen> {
 }
 
 class _BackButton extends StatelessWidget {
-  final VoidCallback onTap;
-  const _BackButton({required this.onTap});
+  const _BackButton();
 
   @override
   Widget build(BuildContext context) {
