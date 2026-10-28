@@ -71,7 +71,7 @@ class _ReferralScreenState extends State<ReferralScreen> {
   }
 
   List<Widget> _campaign(BuildContext context, AppState state) {
-    final canMove = state.referralBonus >= state.referralMinMove;
+    final canMove = state.referralBonus >= AppState.referralMinMove;
     return [
       // Bonus card
       DnCard(
@@ -114,7 +114,7 @@ class _ReferralScreenState extends State<ReferralScreen> {
         child: Text(
           canMove
               ? 'Moves ₦${state.referralBonus.toLocaleString()} into your wallet instantly.'
-              : 'You need at least ₦${state.referralMinMove.toLocaleString()} to move bonus to your wallet.',
+              : 'You need at least ₦${AppState.referralMinMove.toLocaleString()} to move bonus to your wallet.',
           style: GoogleFonts.plusJakartaSans(
             fontSize: 13,
             color: AppColors.textMuted,
